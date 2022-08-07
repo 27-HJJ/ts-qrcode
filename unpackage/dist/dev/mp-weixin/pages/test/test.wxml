@@ -1,0 +1,1 @@
+<view><ts-qrocde wx:if="{{b}}" bindresult="{{a}}" u-i="3d91a891-0" bind:__l="__l" u-p="{{b}}"></ts-qrocde><button bindtap="{{c}}">重新绘制</button></view>

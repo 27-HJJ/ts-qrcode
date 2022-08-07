@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "测试",
+  "usingComponents": {
+    "ts-qrocde": "../../components/ts-qrocde/tsQrocde"
+  }
+}
